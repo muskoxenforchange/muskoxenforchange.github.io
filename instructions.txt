@@ -1,0 +1,35 @@
+Make a website on your computer
+
+1. type in:
+
+mkdir website [Enter]
+//this will make a new folder called website
+
+2. type:
+
+cd website [Enter]
+//this will go into your website folder
+
+3. type:
+
+gedit index.html & [Enter]
+//this will open the text editor (gedit) to make 
+a file called index.html
+
+4. Using what you learned from Codecademy as a 
+guideline, make a website.
+
+Example:
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>MUSKOX APPRECIATION</h1>
+</body>
+</html>
+
+(You can make this as fancy as you'd like)
+
+5. Save
